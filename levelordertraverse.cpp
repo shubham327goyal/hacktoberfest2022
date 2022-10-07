@@ -33,7 +33,7 @@ node* buildTree(node* root){
     
     return root;
 }
-
+//this is the code for level order traversal
 void levelOrderTraversal(node* root)
 {
     queue<node*> q;
